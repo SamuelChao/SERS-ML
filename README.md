@@ -29,4 +29,8 @@ Analysis the high-throughput SERS-microwell bacteria spectra data by machine lea
 - Convolutional Neural Network (CNN)
 
 ## Report
-- See SERS-ML report.pdf
+- Title:
+ > "THE MICROFLUIDIC MICROWELL ARRAY INTEGRATING SURFACE ENHANCED RAMAN SCATTERING (SERS) PLATFORM ASSISTED WITH MACHINE LEARNING FOR BACTERIA STRAIN IDENTIFICATION"
+- Conference:
+ > The 22nd International Conference on Solid-State Sensors, Actuators and Microsystems (Transducer 2023), Kyoto, Japan
+- PDF file
